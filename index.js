@@ -32,6 +32,6 @@ function login(userName, password) {
 }
 
 
-console.log(login("John", "Emp@123")); git
+console.log(login("John", "Emp@123")); 
 console.log(login("JaneSmith", "WrongPass")); 
 console.log(login("NewUser", "Emp@123")); 
